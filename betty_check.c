@@ -1,12 +1,15 @@
 #include <stdio.h>
 
-/* main - a beautiful code that passes betty checks
+/**
+ * main - Entry point
  *
- * return - (0)
+ * Description: A beautiful code that passes betty checks
+ *
+ * Return: (0)
  *
  */
-
-int main(){
+int main(void)
+{
 	printf("hello, beautiful people\n");
 
 	return (0);
